@@ -1,0 +1,3 @@
+Index. Php stranica sa logikom za dohvatanje prijatelja korisnika,prijatelje njegovih prijatelja I predlozenih prijatelja.Podaci se prikazuju u formi tabele.
+Prijatelji.php stranica koja sadzi skriptu za ucitavanje svih prijatelja korisnika na osnovu prilozenog JSON fajla.Pokusam I za ucitavanje korisnika ali jedan korisnik nije imao prezime a u bazi sam striktno naveo da korisnik mora da ima ime I prezime.
+SQL social.sql je exportovana baza podataka.
